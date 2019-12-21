@@ -1,1 +1,16 @@
 # Nashville-Electric-Service-Monthly-Energy-Consumption-by-Customer-Type-and-ZIP-Code
+
+## Inspiration 
+Within the framework of sustainable development, the energy supply system is one of the most crucial subjects. People spend more time searching for the right place to live and one that suits their lifestyle and budget. I embark on analyzing energy consumption per year/or month to provide the insights of the average usage residential and commercial. I will use correlation analysis, and descriptive analysis. I will also compare the results with the income of the zip code to see if there is any correlation between high income zip codes and energy consumption.  
+
+## Data Selection
+To address the above problem, I will analyze the Nashville Electric Service data from 2012 to 2018 to find average energy consumption patterns have changed over time across different Zip codes. This will in turn help the current consumers as well as visitors to budget and live where they can afford. 
+
+The Nashville Electric data was publicly available at Data Nashville.gov. The income tax was also obtained publicly. The datasets was then merged on zip codes. 
+
+## Data Cleaning
+The Data wrangling was done before any analysis took place. The zip code was split from latitude and Longitude. The Customer types dataframes were created and yearly and monthly Electric consumption analyzed over the years. 
+
+## visualization
+
+I created a dashboard that hosted different pieces of information. I used matplotlib.pyploy to create different visualizations, I used Power BI to created geolocation and meter visualizations. 
