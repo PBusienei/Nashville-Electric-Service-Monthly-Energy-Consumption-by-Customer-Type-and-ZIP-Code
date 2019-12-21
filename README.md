@@ -4,7 +4,7 @@
 Within the framework of sustainable development, the energy supply system is one of the most crucial subjects. People spend more time searching for the right place to live and one that suits their lifestyle and budget. I embark on analyzing energy consumption per year/or month to provide the insights of the average usage residential and commercial. I will use correlation analysis, and descriptive analysis. I will also compare the results with the income of the zip code to see if there is any correlation between high income zip codes and energy consumption.  
 
 ## Data Selection
-To address the above problem, I will analyze the Nashville Electric Service data from 2012 to 2018 to find average energy consumption patterns have changed over time across different Zip codes. This will in turn help the current consumers as well as visitors to budget and live where they can afford. 
+To address the above problem, I will analyze the Nashville Electric Service data from 2012 to 2019 to find average energy consumption patterns have changed over time across different Zip codes. This will in turn help the current consumers as well as visitors to budget and live where they can afford. 
 
 The Nashville Electric data was publicly available at Data Nashville.gov. The income tax was also obtained publicly. The datasets was then merged on zip codes. 
 
