@@ -1,6 +1,6 @@
    <img src="images/NES_night.jpg">                                     
 
-# Nashville-Electric-Service-Monthly-Energy-Consumption-by-Customer-Type-and-ZIP-Code
+# Monthly Energy Consumption over Time by Customer Type and ZIP Code in Nashville TN.
 
 ## Inspiration 
 Within the framework of sustainable development, the energy supply system is one of the most crucial subjects. People spend more time searching for the right place to live and one that suits their lifestyle and budget. I embark on analyzing energy consumption per year/or month to provide the insights of the average usage residential and commercial. I will use correlation analysis, and descriptive analysis. I will also compare the results with the income of the zip code to see if there is any correlation between high income zip codes and energy consumption.  
