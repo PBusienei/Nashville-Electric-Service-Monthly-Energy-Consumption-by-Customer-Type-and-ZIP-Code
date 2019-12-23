@@ -8,7 +8,7 @@ Within the framework of sustainable development, the energy supply system is one
 ## Data Selection
 To address the above problem, I will analyze the Nashville Electric Service data from 2012 to 2019 to find average energy consumption patterns have changed over time across different Zip codes. This will in turn help the current consumers as well as visitors to budget and live where they can afford. 
 
-The Nashville Electric data was publicly available at Data Nashville.gov. The income tax was also obtained publicly. The datasets was then merged on zip codes. 
+The Nashville Electric data was publicly available at [](https://data.nashville.gov/Energy-Usage/NES-Monthly-Energy-Consumption-by-Customer-Type-an/vbx7-mn5i "NES") The income tax was also obtained publicly. The datasets was then merged on zip codes. 
 
 ## Data Cleaning
 The Data wrangling was done before any analysis took place. The zip code was split from latitude and Longitude. The Customer types dataframes were created and yearly and monthly Electric consumption analyzed over the years. 
