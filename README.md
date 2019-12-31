@@ -11,7 +11,7 @@ To address the above problem, I will analyze the Nashville Electric Service data
 
 The Nashville Electric data was publicly available at [Nashville Electric Service](https://data.nashville.gov/Energy-Usage/NES-Monthly-Energy-Consumption-by-Customer-Type-an/vbx7-mn5i) I also looked at the building permits issued which was obtained publicly at [Nashville Building Permits](https://data.nashville.gov/browse?q=Building%20Permits%20Issued&sortBy=relevance). The datasets was then merged on zip codes and year. 
 
- <img src="images/Total_electric_consumption_by_zipcode.jpg"> 
+ <img src="images/retail sales of lectricity.png"> 
 
 ## Data Cleaning
 The Data wrangling was done before any analysis took place. The zip code was split from latitude and Longitude. The Customer types dataframes were created and yearly and monthly Electric consumption analyzed over the years. 
