@@ -1,9 +1,9 @@
-   <img src="images/NES_night.jpg">                                     
+   <img align="center" src="images/NES_night.jpg">                                     
 
 # Monthly energy consumption over time by customer type and ZIP Code in Nashville TN.
 
 ## Inspiration 
-Nashville is experiencing a rapid growth in its population. It is estimated that an average of 100 people move to Nashville per day (Tennessean, April 2019).  People are looking for a place to settle with their families that fit their budget. According to the estimates above, providing readily available information to visitors on the average energy consumption by ZIP Code per month could alleviate the time spend searching for the right place to live, thus increasing city productivity. 
+Nashville is experiencing a rapid growth in its population. It is estimated that an average of 100 people move to Nashville per day (Tennessean, April 2019).  People are looking for a place to settle with their families that fit their budget. According to these estimates, providing readily available information to visitors on the average energy consumption by ZIP Code per month could alleviate the time spend searching for the right place to live, thus increasing city productivity. 
 
 <img src="images/Nashville pop growth.png" width="400" height="400">
 
