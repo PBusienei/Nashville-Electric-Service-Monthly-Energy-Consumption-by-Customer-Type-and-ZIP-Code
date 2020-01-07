@@ -5,7 +5,7 @@
 ## Inspiration 
 Nashville is experiencing a rapid growth in its population. It is estimated that an average of 100 people move to Nashville per day (Tennessean, April 2019). People are looking for a place to settle with their families that fit their budget. According to these estimates, providing readily available information to visitors on the average energy consumption by ZIP Code per month could alleviate the time spend searching for the right place to live, thus increasing city productivity. 
 
-<p align="center"<img src="images/Nashville pop growth.png" width="400" height="400"></p>
+<p align="center"><img src="images/Nashville pop growth.png" width="400" height="400"></p>
 
 To address the above problem, I analyzed the Nashville Electric Service (NES) data from 2012 to 2018 to find how average energy consumption patterns have changed over time across different ZIP Codes.
 
