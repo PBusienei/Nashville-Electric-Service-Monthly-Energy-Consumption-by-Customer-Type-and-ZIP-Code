@@ -17,5 +17,6 @@ The Nashville Electric data was publicly available at [Nashville Electric Servic
 The Data wrangling was done before any analysis took place. The zip code was split from latitude and Longitude. The Customer types dataframes were created and yearly and monthly Electric consumption analyzed over the years. 
 
 ## visualization
-I created a dashboard that hosted different pieces of information. I used matplotlib.pyploy to create different visualizations. The graph bwlow shows the average energy consumption per zip code. <img src="images/Average_energy_consumption_per_zip.png" width="400" height="400">. The chloropleth map below shows energy average energy consumption per zip code.<img src="images/chloropleth_map_3.png" width="400" height="400"> 
+I created a dashboard that hosted different pieces of information. I used matplotlib.pyploy to create different visualizations. The graph bwlow shows the average energy consumption per zip code. <img src="images/Average_energy_consumption_per_zip.png" width="400" height="400"> <img src="images/chloropleth_map_3.png" width="400" height="400">. The chloropleth map above shows the average energy consumption per zip code.
+
 I used Tableau to create [Nashville Electric Service(NES) energy consumption](https://public.tableau.com/profile/bush1897#!/vizhome/EnergyConsumption_15781937576950/Mydashboard?publish=yes) dashboard.
