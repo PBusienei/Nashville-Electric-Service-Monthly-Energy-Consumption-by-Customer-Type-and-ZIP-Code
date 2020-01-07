@@ -34,6 +34,6 @@ The top 10 ZIP Codes with the lowest monthly energy consumption for residential 
 
 The chloropleth maps below shows the energy consumption over time.
 
-<img src="images/Residential energy consumption 2012.png" width="250" height="250"><img src="images/Residential energy consumption in 2015.png" width="250" height="250"><img src="images/Residential energy consumption in 2018.png" width="250" height="250">
+<img src="images/Residential energy consumption 2012.png" width="300" height="300"><img src="images/Residential energy consumption in 2015.png" width="300" height="300"><img src="images/Residential energy consumption in 2018.png" width="300" height="300">
 
 I used Tableau to create and interactive visualization [Nashville Electric Service(NES) monthly energy consumption](https://public.tableau.com/profile/bush1897#!/vizhome/EnergyConsumption_15781937576950/Mydashboard?publish=yes) dashboard.
