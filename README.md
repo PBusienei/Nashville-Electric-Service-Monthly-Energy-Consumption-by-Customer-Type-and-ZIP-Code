@@ -21,3 +21,6 @@ I created a dashboard that hosted different pieces of information. I used matplo
 <img src="images/Average_energy_consumption_per_zip.png" width="400" height="400"> <img src="images/chloropleth_map_3.png" width="400" height="400">
 
 I used Tableau to create [Nashville Electric Service(NES) energy consumption](https://public.tableau.com/profile/bush1897#!/vizhome/EnergyConsumption_15781937576950/Mydashboard?publish=yes) dashboard.
+
+The top 10 zip codes with the lowest monthly energy consumption for residential customers is shown below.
+<img src="images/Lowest 10 energy consuming zip codes.png"><img src="images/map-lowest-10 energy consuming zip code.png">
