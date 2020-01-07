@@ -3,7 +3,14 @@
 # Monthly Energy Consumption over Time by Customer Type and ZIP Code in Nashville TN.
 
 ## Inspiration 
-Within the framework of sustainable development, the energy supply system is one of the most crucial subjects. People spend more time searching for the right place to live and one that suits their lifestyle and budget. I embark on analyzing energy consumption per year/or month to provide the insights of the average usage residential and commercial. I will use correlation analysis, and descriptive analysis. I will also compare the results with the income of the zip code to see if there is any correlation between high income zip codes and energy consumption. 
+Nashville is experiencing a rapid growth in its population. It is estimated that an average of 100 people move to Nashville per day (Tennessean, April 2019).  People are looking for a place to settle with their families that fit their budget. According to the estimates above, providing readily available information to visitors on the average energy consumption by zip code per month could alleviate the time spend searching for the right place to live, thus increasing city productivity. 
+
+<img src="images/Nashville pop growth.png"> 
+
+To address the above problem, I will analyze the Nashville Electric Service data from 2012 to 2018 to find how average energy consumption patterns have changed over time across different zip codes. This will in turn help the current consumers as well as visitors to budget and live where they can afford. 
+
+
+Within the framework of sustainable development, the energy supply system is one of the most crucial subjects. People spend more time searching for the right place to live and one that suits their lifestyle and budget. I embark on analyzing energy consumption per year/or month to provide the insights of the average usage residential, commercial, outdoor lighting, and seasonal customer. I used correlation analysis, and descriptive analysis. I will also compare the results with the income of the zip code to see if there is any correlation between high income zip codes and energy consumption. 
 
 
 ## Data Selection
@@ -20,7 +27,8 @@ The Data wrangling was done before any analysis took place. The zip code was spl
 I created a dashboard that hosted different pieces of information. I used matplotlib.pyploy to create different visualizations. The graphs shown on the left represent the average monthly energy consumption per zip code. The chloropleth map on the right shows the zip codes with the highest energy consumption.
 <img src="images/Average_energy_consumption_per_zip.png" width="400" height="400"> <img src="images/chloropleth_map_3.png" width="400" height="400">
 
-I used Tableau to create [Nashville Electric Service(NES) energy consumption](https://public.tableau.com/profile/bush1897#!/vizhome/EnergyConsumption_15781937576950/Mydashboard?publish=yes) dashboard.
 
 The top 10 zip codes with the lowest monthly energy consumption for residential customers is shown below.
 <img src="images/Lowest 10 energy consuming zip codes.png" width="400" height="400"><img src="images/map-lowest-10 energy consuming zip code.png" width="400" height="400">
+
+I used Tableau to create [Nashville Electric Service(NES) monthly energy consumption](https://public.tableau.com/profile/bush1897#!/vizhome/EnergyConsumption_15781937576950/Mydashboard?publish=yes) dashboard.
