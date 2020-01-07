@@ -3,11 +3,11 @@
 # <p align="center">Monthly energy consumption over time by customer type and ZIP Code in Nashville TN.</p>
 
 ## Inspiration 
-Nashville is experiencing a rapid growth in its population. It is estimated that an average of 100 people move to Nashville per day (Tennessean, April 2019).  People are looking for a place to settle with their families that fit their budget. According to these estimates, providing readily available information to visitors on the average energy consumption by ZIP Code per month could alleviate the time spend searching for the right place to live, thus increasing city productivity. 
+Nashville is experiencing a rapid growth in its population. It is estimated that an average of 100 people move to Nashville per day (Tennessean, April 2019). People are looking for a place to settle with their families that fit their budget. According to these estimates, providing readily available information to visitors on the average energy consumption by ZIP Code per month could alleviate the time spend searching for the right place to live, thus increasing city productivity. 
 
-<img src="images/Nashville pop growth.png" width="400" height="400">
+<p align="center"<img src="images/Nashville pop growth.png" width="400" height="400"></p>
 
-To address the above problem, I analyzed the Nashville Electric Service (NES) data from 2012 to 2018 to find how average energy consumption patterns have changed over time across different ZIP codes.
+To address the above problem, I analyzed the Nashville Electric Service (NES) data from 2012 to 2018 to find how average energy consumption patterns have changed over time across different ZIP Codes.
 
 
 Within the framework of sustainable development, the energy supply system is one of the most crucial subjects. People spend more time searching for the right place to live and one that suits their lifestyle and budget. I embarked on analyzing energy consumption per year and per month to provide the insights of the average energy usage  by residential, commercial, outdoor lighting, and seasonal customers. 
