@@ -32,7 +32,7 @@ I created a dashboard that hosted different pieces of information. I used matplo
 The top 10 ZIP Codes with the lowest monthly energy consumption for residential customers is shown below.
 <img src="images/Lowest 10 energy consuming zip codes.png" width="400" height="400"><img src="images/map-lowest-10 energy consuming zip code.png" width="400" height="400">
 
-The chloropleth maps below shows the energy consumption over time.
+The chloropleth maps below shows how residential average energy consumption has changed over time from 2012, 2015 and 2018 by ZIP Code.
 
 <img src="images/Residential energy consumption 2012.png" width="260" height="260"><img src="images/Residential energy consumption in 2015.png" width="260" height="260"><img src="images/Residential energy consumption in 2018.png" width="260" height="260">
 
