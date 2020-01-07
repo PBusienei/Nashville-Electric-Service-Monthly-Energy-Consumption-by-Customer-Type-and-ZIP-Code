@@ -1,4 +1,4 @@
-   <img align="center" src="images/NES_night.jpg">                                     
+   <p align="center"><img src="images/NES_night.jpg"></p>                                     
 
 # Monthly energy consumption over time by customer type and ZIP Code in Nashville TN.
 
