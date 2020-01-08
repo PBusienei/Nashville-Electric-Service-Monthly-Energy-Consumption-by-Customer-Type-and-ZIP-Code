@@ -25,7 +25,7 @@ The Nashville Electric Service data is publicly available at [Nashville Electric
 The Data wrangling was done before any analysis took place. The ZIP Codes were split from latitude and longitude column. The Customer type dataframes were created, then the annual and monthly electric consumption was analyzed over the years. 
 
 ## Visualization
-I created a dashboard that hosted different pieces of information. I used matplotlib.pyploy to create different visualizations. The graphs shown on the left represent the average monthly energy consumption per ZIP Code. The chloropleth map on the right shows the ZIP Codes with the highest energy consumption.
+I created a dashboard that hosted different pieces of information. I used matplotlib.pyplot to create different visualizations. The graphs shown on the left represent the average monthly energy consumption per ZIP Code. The chloropleth map on the right shows the ZIP Codes with the highest energy consumption.
 <img src="images/Average_energy_consumption_per_zip.png" width="400" height="400"> <img src="images/chloropleth_map_3.png" width="400" height="400">
 
 
